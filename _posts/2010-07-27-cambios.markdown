@@ -1,0 +1,19 @@
+---
+comments: true
+date: 2010-07-27 03:19:05
+layout: post
+slug: cambios
+title: Cambios
+wordpress_id: 424
+categories:
+- General
+tags:
+- blog
+- diseño
+- movable type
+- wordpress
+---
+
+Después de casi 5 años usando MovableType este blog ha cambiado de tecnología y de look. Así que espero que les guste el nuevo diseño, y disculpen las molestias que este cambio pueda causar.
+
+Próximamente retomamos las "transmisiones". Gracias por leer este blog, y si tienen comentarios, o indicaciones sobre el nuevo look se los agradeceré.

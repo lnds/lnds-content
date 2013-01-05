@@ -1,0 +1,19 @@
+---
+comments: true
+date: 2012-07-16 02:32:38
+layout: post
+slug: ph
+title: PHP
+wordpress_id: 2851
+categories:
+- Desarrollo
+- Humor
+tags:
+- php
+---
+
+Si todo lo que tienes es un martillo...
+
+[![](http://www.lnds.net/blog/wp-content/uploads/2012/07/martillo.jpg)](http://www.lnds.net/blog/wp-content/uploads/2012/07/martillo.jpg)
+
+Fuente: [flickr](http://www.flickr.com/photos/raindrift/7095238893/in/set-72157629492908038/) por Ian Baker

@@ -1,0 +1,33 @@
+---
+comments: true
+date: 2011-11-14 00:39:41
+layout: post
+slug: desafio
+title: Desafío
+wordpress_id: 2428
+categories:
+- Cultura
+- Educación
+tags:
+- desafíos
+- matemáticas
+- probablidades
+---
+
+[![](http://www.lnds.net/blog/wp-content/uploads/2011/11/desafio-probabilidad-1024x576.jpg)](http://www.lnds.net/blog/wp-content/uploads/2011/11/desafio-probabilidad.jpg)Para los que no hablan inglés, la pizarra dice:
+
+"Si usted escoge una respuesta al azar para esta pregunta, ¿cual es la probablidad de que sea correcta?
+A) 25%
+B) 50%
+C) 60%
+D) 25%"
+
+A ver como les va, sin hacer trampas, ni buscar en google.
+
+
+
+
+
+
+
+

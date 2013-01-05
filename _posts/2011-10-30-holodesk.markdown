@@ -1,0 +1,19 @@
+---
+comments: true
+date: 2011-10-30 16:41:45
+layout: post
+slug: holodesk
+title: HoloDesk
+wordpress_id: 2347
+categories:
+- Tecnología
+- Usabilidad
+tags:
+- kinect
+- realidad aumentada
+- tecnología
+---
+
+Interesante proyecto de Microsoft Research, usando la tecnología de kinect:
+
+

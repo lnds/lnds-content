@@ -1,0 +1,34 @@
+---
+comments: true
+date: 2012-03-08 12:59:56
+layout: post
+slug: adele
+title: Adele
+wordpress_id: 2601
+categories:
+- Cultura
+- Personajes
+- Tecnología
+tags:
+- Adele Goldberg
+- desarrollo
+- historia
+- paradigmas
+- personajes
+- SmallTalk
+- tecnología
+---
+
+> "Don't ask whether you can do something, ask how to do it."
+"No preguntes si puedes hacer algo, pregunta cómo hacerlo".
+
+--   [Adele Goldberg](http://c2.com/cgi/wiki?AdeleGoldberg)
+
+[![](http://www.lnds.net/blog/wp-content/uploads/2012/03/adele.jpg)](http://www.lnds.net/blog/wp-content/uploads/2012/03/adele.jpg)
+
+
+
+
+
+
+A propósito, Feliz Día de la Mujer.

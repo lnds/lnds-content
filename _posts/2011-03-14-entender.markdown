@@ -1,0 +1,25 @@
+---
+comments: true
+date: 2011-03-14 13:39:18
+layout: post
+slug: entender
+title: Entender
+wordpress_id: 1600
+categories:
+- Ciencia
+- Credibilidad
+- La Brecha Intelectual
+- Paradigmas
+- Personajes
+tags:
+- entendimiento
+- matemáticas
+- Von Neumann
+---
+
+> [![](http://www.lnds.net/blog/wp-content/uploads/2011/03/VonNeuman1.jpg)](http://www.lnds.net/blog/wp-content/uploads/2011/03/VonNeuman1.jpg)"In mathematics, you don't understand things. You just get used to them." (En matemáticas no entiendes las cosas. Acabas acostumbrándote a ellas).
+
+-- John von Neumann
+
+
+(algo que también podría aplicar para ciertos aspectos de la vida)

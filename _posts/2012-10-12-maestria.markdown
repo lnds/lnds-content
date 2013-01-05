@@ -1,0 +1,18 @@
+---
+comments: true
+date: 2012-10-12 12:34:28
+layout: post
+slug: maestria
+title: Maestría
+wordpress_id: 3036
+categories:
+- Personajes
+tags:
+- arte
+- filosofía
+- Heidegger
+- maestría
+---
+
+[![](http://www.lnds.net/blog/wp-content/uploads/2012/10/220px-Martin_Heidegger.jpg)](http://www.lnds.net/blog/wp-content/uploads/2012/10/220px-Martin_Heidegger.jpg)"Cuanto más grande el maestro tanto más puramente desaparece su persona detrás de la obra."
+-- Martin Heidegger

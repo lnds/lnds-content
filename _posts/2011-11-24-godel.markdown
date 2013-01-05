@@ -1,0 +1,23 @@
+---
+comments: true
+date: 2011-11-24 01:35:29
+layout: post
+slug: godel
+title: Gödel
+wordpress_id: 2449
+categories:
+- La Naturaleza del Software
+- Personajes
+post_format:
+- Vídeo
+tags:
+- Gódel
+- lógica
+- videos
+---
+
+por Igor Kramer:
+
+
+
+[Gödel](http://vimeo.com/7091945) from [Igor Kramer](http://vimeo.com/user2373181) on [Vimeo](http://vimeo.com).

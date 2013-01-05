@@ -1,0 +1,26 @@
+---
+comments: true
+date: 2012-03-23 23:55:01
+layout: post
+slug: entropia
+title: Entropía
+wordpress_id: 2638
+categories:
+- Ciencia
+- Cultura
+- La Brecha Intelectual
+- La Naturaleza del Software
+- Personajes
+tags:
+- cibernética
+- ciencia
+- física
+- información
+- Norbert Wiener
+---
+
+> "Nadamos contracorriente contra un torrente de desorganización, el que tiende a reducirlo todo al calor muerto del equilibrio y la monotonía... Este calor muerto en física tiene una contraparte en la ética de Kierkegaard, quien señaló que vivimos en un universo moralmente caótico. En esto, nuestra obligación principal es establecer enclaves arbitrarios de orden y sistema... Como la Reina Roja, no podemos quedarnos donde estamos sin correr tan rápido como podamos."
+--Norbert Wiener, matemático, acuño el término cibernética
+
+
+[![](http://www.lnds.net/blog/wp-content/uploads/2012/03/norbertWiener.jpg)](http://www.lnds.net/blog/wp-content/uploads/2012/03/norbertWiener.jpg)
