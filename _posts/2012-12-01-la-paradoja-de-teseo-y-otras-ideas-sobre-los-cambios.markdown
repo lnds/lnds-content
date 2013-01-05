@@ -23,6 +23,8 @@ tags:
 
 Dejen que las instituciones funcionen, es casi un lugar común en la política chilena, una frase que se sostiene en la idea de la perpetuidad y continuidad de las mismas, "las personas cambian, las instituciones quedan".
 
+<!-- more -->
+
 En uno de sus viajes el escritor inglés [Douglas Adams](http://www.douglasadams.com/) visita el Golden Pavilion en Kioto, Japón, y relata la siguiente anécdota:
 
 

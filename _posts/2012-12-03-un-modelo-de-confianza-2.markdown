@@ -25,6 +25,8 @@ tags:
 
 La confianza es algo que toma tiempo y esfuerzo construir, pero que puede perderse muy rápidamente. Que importante sería contar con un modelo que nos permita evaluar y mejorar el grado de confianza con nuestro clientes y usuarios.
 
+<!-- more -->
+
 Existe un modelo de confianza que divide este concepto en  cuatro dimensiones que pueden ser aglutinados en una sencilla ecuación:
 
 

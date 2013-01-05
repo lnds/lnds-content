@@ -21,6 +21,8 @@ Sí, Excel, ese que usan muchos de tus colegas no informáticos, soporta perfect
 
 Primero en Excel tienes **valores**, números, o a veces textos, que colocas en celdas. Por ejemplo, puedes colocar en la celda A1 el valor 2, y en la celda A2 el valor 3.
 
+<!-- more -->
+
 Después tienes **funciones**, u operaciones que trabajan sobre valores que se encuentran en una celda, por ejemplo, puedes definir que el valor de la celda A3 se calcula como A3 = A1 * A2. Excel te mostrará el valor de aplicar esta operación a los valores disponibles en ese momento en las celdas A1 y A2, en nuestro caso se verá en A3 el número 6.
 
 [caption id="attachment_3123" align="aligncenter" width="141"][![Definiendo el valor de una celda en función de otras dos](http://www.lnds.net/blog/wp-content/uploads/2012/11/Captura-de-pantalla-2012-11-21-a-las-20.54.00.png)](http://www.lnds.net/blog/wp-content/uploads/2012/11/Captura-de-pantalla-2012-11-21-a-las-20.54.00.png) Definiendo el valor de una celda en función de otras dos[/caption]

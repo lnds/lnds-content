@@ -2,7 +2,7 @@
 comments: true
 date: 2010-12-08 14:33:40
 layout: post
-slug: '%c2%bfnueva-vida-en-arsenico'
+slug: 'nueva-vida-en-arsenico'
 title: ¿Nueva vida en arsénico?
 wordpress_id: 1037
 categories:
@@ -30,7 +30,7 @@ Durante mi paso por la [Escuela de Injeniería](http://ingenieria.uchile.cl/) (s
 Fue con este profesor que aprendí algo interesante, y que para ilustrarlo voy a recurrir a una vieja conocida del nerd auténtico (algo que todo geek que se precie de tal tiene en su escritorio, en alguna pared o estampado en una polera), me refiero a la Tabla Periódica de los Elementos, acá les va, con un retoque, un cuadrito que rodea a dos elementos, el Fósforo (**P**) y el Arsénico (**As**):
 
 
-[![](http://www.lnds.net/blog/wp-content/uploads/2010/12/tabla-periódica1-1024x749.png)](http://www.lnds.net/blog/wp-content/uploads/2010/12/tabla-periódica1.png)Si tienen problemas para visualizar hagan click sobre la imagen.
+[![](http://www.lnds.net/blog/wp-content/uploads/2010/12/tabla-periodica1-1024x749.png)](http://www.lnds.net/blog/wp-content/uploads/2010/12/tabla-periodica1.png)Si tienen problemas para visualizar hagan click sobre la imagen.
 
 
 

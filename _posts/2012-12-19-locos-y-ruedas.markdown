@@ -17,6 +17,8 @@ categories:
 
 "¡Qué mala suerte tengo!", exclama Marcos, "¿ahora que voy a a hacer?"
 
+<!-- more -->
+
 En ese momento, uno de los locos que miraba por la ventana esta escena lo llama: "¡Oiga, amigo!. ¡Super fácil! Sáquele un perno a cada una de las otras ruedas y le coloca tres pernos a la rueda, y se va así hasta la próxima estación de servicio donde compra pernos y arregla la rueda."
 
 Marcos queda asombrado, y tras escuchar la ingeniosa propuesta del loco no hace menos que agradecerle entusiasmado: "¡Qué gran idea loco! ¿cómo se te ocurrió?"
@@ -26,4 +28,4 @@ La respuesta del loco fue inmediata: "¡Porque yo estoy aquí encerrado por loco
 
 Este cuento se lo escuché hace tiempo a mi jefe, y es notable porque explica un importante principio de administración. La pregunta queridos lectores es: ¿cuál es el principio de administración que se expone en este chiste?
 
-[![loco](http://www.lnds.net/blog/wp-content/uploads/2012/12/Loco.jpg)](http://www.lnds.net/blog/2012/12/locos-y-ruedas.html/loco)
+{% img center http://www.lnds.net/blog/wp-content/uploads/2012/12/Loco.jpg loco loco %}

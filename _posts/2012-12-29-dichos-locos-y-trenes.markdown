@@ -28,12 +28,13 @@ Los principios del agilismo ([y del mejor proceso para desarrollar software](htt
 
 El arte de gestionar proyectos parte de cosas simples, de saber qué se quiere y orientar los esfuerzos y recursos para lograr ese objetivo: [Dirección+Organización+Método](http://www.lnds.net/blog/2012/05/conoces-a-pin-pon.html). Pero no siempre tenemos todos los recursos, o no contamos con todos los elementos, o simplemente no alcanza el tiempo para lograr el objetivo. Allí es cuando es necesario aplicar el principio de **la suboptimización de las partes **en función del todo**,** también conocido como** el principio del loco y la rueda pinchada. **
 
+<!-- more -->
 Si no lo leyeron en mi [post anterior](http://www.lnds.net/blog/2012/12/locos-y-ruedas.html), acá está de nuevo la historia que expone este importante principio de administración:
 
 
 > 
 
-[caption id="attachment_3157" align="alignleft" width="210"][![loco](http://www.lnds.net/blog/wp-content/uploads/2012/12/Loco.jpg)](http://www.lnds.net/blog/2012/12/locos-y-ruedas.html/loco) loco sabio[/caption]
+{% img left http://www.lnds.net/blog/wp-content/uploads/2012/12/Loco.jpg 'loco sabio' 'loco sabio' %}
 
 Era un día de lluvia torrencial, y Marcos pincha un neumático justo enfrente de un manicomio. Luego de estacionar se baja, se protege de la lluvia como mejor puede y procede a sacar los pernos que sujetan la llanta. Los deja cuidadosamente en el suelo formando un montón. Lleva la rueda a la maleta del auto para cambiarla por la rueda de repuesto, y cuando vuelve patea los pernos sin querer, con tan mala suerte que estos ruedan cayendo por las alcantarillas.
 
@@ -65,7 +66,7 @@ Todo esto de ponerse en todos los escenarios posibles me recuerda **El Principio
 
 > Esta es la historia de un campesino chileno que era guarda agujas de tren, como el de la fotografía de abajo. Antiguamente, y quizás en algunos ferrocarriles siga siendo así, ciertos segmentos de las vías, donde estas se cruzaban por ejemplo, requerían la manipulación coordinada [del desvío](http://es.wikipedia.org/wiki/Desv%C3%ADo_(ferrocarril)) mediante  una palanca, conocida como _aguja._
 
-[caption id="attachment_3167" align="aligncenter" width="450"][![guardaagujas](http://www.lnds.net/blog/wp-content/uploads/2012/12/guardaagujas1.jpg)](http://www.lnds.net/blog/2012/12/dichos-locos-y-trenes.html/guardaagujas-2) Pedro el guarda'guja[/caption]
+{% img center http://www.lnds.net/blog/wp-content/uploads/2012/12/guardaagujas1.jpg %}
 
 Esta es la historia de Pedro, un huasito que cuidaba una aguja de tren, que vivía con su mujer en una choza cerca de las vías del ferrocarril. Un día un curioso turista se para y le pregunta a qué se dedica para vivir:
 

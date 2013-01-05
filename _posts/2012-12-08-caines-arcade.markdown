@@ -13,6 +13,7 @@ Me entero de esta maravillosa historia [Vía Pensamientos Ágiles](http://brigo
 
 Dicen que un niño sólo necesita de su imaginación, y quizás una caja de cartón para ser feliz, y en este caso Caine nos muestra que ese don puede alegrar a mucha gente.
 
+ {% vimeo 40000072 %}
 
 
 La historia apareció en Reddit y tuvo un impacto grande como pueden ver en el video, actualmente existe una iniciativa para becar los estudios de Caine y otros niños tan imaginativos como él, la que hasta ahora ha recaudado más de 200.000 dolares: [](http://cainesarcade.com/)
