@@ -4,6 +4,8 @@ title: "Jugar bien sus cartas"
 date: 2013-02-13 12:14
 comments: true
 categories: 
+- Innovación
+- Negocios
 ---
 Me gusta [Netflix](http://www.netflix.com). No me gusta la TV, quiero decir la televisión pública actual, hace rato que no la veo, y yo era un verdadero "tevito", pero hace tiempo que me aburrió con sus realities y sus pésimos noticiarios. Crecí en los setenta, donde la televisión significaba, al menos en Chile,  series yankis como Star Trek, El Hombre Nuclear, Bonanza, y "Tardes de Cine", con películas de Abbot y Costello o de Dean Martin con Jerry Lewis, pero de vez en cuando algún clásico del cine de terror, como la Momia con Boris Karloff, o Drácula con Bela Lugosi. Incluso recuerdo haber visto PSicósis de Hitchcock en Televisión Nacional una noche de verano cuando tenía unos trece o catorce años. Así que no vi tan mal cine ;-) Al menos cuando la televisión era pública, de verdad. 
 
@@ -13,7 +15,7 @@ Me gusta [Netflix](http://www.netflix.com). No me gusta la TV, quiero decir la t
 
 Por eso me gusta Netflix, porque encuentro viejas series, pero además le he dado la oportunidad a su servicio, y de a poco su programación ha empezado a interesarme más, he encontrado algunas joyitas, películas no tan antiguas, que probablemente nunca llegaron a nuestros cines, o revisar series que no pude ver cuando estaban en el cable, como Gallactica, o Breaking Bad.
 
-Pero hay dos razones adicionales por las que me gusta Netflix. Una es que han entrado en la fase de la producción propia, una movida en la que que también están Amazon, y Youtube. Y la otra razón es que tienen un equipo humano de desarrolladores notable.
+Pero hay dos razones adicionales por las que me gusta Netflix. Una es que han entrado en la fase de la producción propia, una movida en la que también están Amazon, y Youtube. Y la otra razón es que tienen un equipo humano de desarrolladores notable.
 
 Sobre la primera razón voy a hablar en este post, el aspecto tecnológico y de gestión de su equipo tecnológico quedará para el post que sigue.
 
