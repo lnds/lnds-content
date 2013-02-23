@@ -47,7 +47,10 @@ Los programadores tenemos la ventaja de que podemos construir herramientas poder
 
 Recientemente un amigo ganó un importante premio usando las herramientas que él ha creado. Me refiero a [Álvaro Graves](http://graves.cl/about.html), quien ganó el [Health Metadata Challenge](http://www.health2news.com/2013/02/20/winners-of-health-data-platform-challenges/), un concurso que busca desarrollar nuevas funcionalidades tecnológicas usando los repositorios de open data del Departamento de Salud de Estados Unidos.
 
+{% img center /blog/images/2013/02/AlvaroGraves.jpg 'Álvaro Graves' 'Álvaro Graves' %}
+
 Esto es notable, y muestra el poder de nuestra profesión, la que  considero, sin ninguna vergüenza, como una de las más importantes que ha creado el ser humano, y probablemente una de las que cambie profundamente nuestra sociedad (como ya lo está haciendo).
+
 
 Así que ahí está tu desafío, no basta con adquirir tus herramientas, tenerlas, y dominarlas, sólo podrás empezar a alcanzar la maestría en tu oficio cuando seas capaz de construir tus propias herramientas, e incluso crear las herramientas que otros van a usar.
 
