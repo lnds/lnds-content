@@ -133,7 +133,7 @@ Hay un apartado del Gorgias que habla sobre la naturaleza de la retórica, y si 
 
 Es importante también entender que los griegos consideraban la frugalidad  una virtud, de hecho encontraban decadentes a los persas, sus eternos enemigos, por su lujo y exhuberancia gastronómica. Ser chef no era buen negocio en la Grecia de Platón.
 
-Aunque es un ejercicio un tanto ocioso, yo sostengo lo contrario que dice Gutierrez, que si Platón viviera en este tiempo tendría que llegar necesariamente a la conclusión que el software es el producto de un arte, no una adulación, si es que su pensamiento es coherente con lo que expone en el Gorgias. Allí está el [Gorgias](http://es.wikisource.org/wiki/Gorgias_(Plat%C3%B3n)) para que puedan sacar ustedes sus propias conclusiones.
+Aunque es un ejercicio un tanto ocioso, yo sostengo lo contrario que dice Gutierrez, que si Platón viviera en este tiempo tendría que llegar necesariamente a la conclusión que el software es el producto de un arte, no una adulación, si es que su pensamiento es coherente con lo que expone en el Gorgias. Allí está el [Gorgias](http://es.wikisource.org/wiki/Gorgias_(Plat%C3%B3n%29) para que puedan sacar ustedes sus propias conclusiones.
 
 Pero para aclarar mi punto voy a citar a Donald Knuth que lo expone bastante bien en su hermoso discurso sobre [el arte de la programación](http://www.lnds.net/blog/2009/12/la-programacion-como-un-arte-parte-i.html).
 
