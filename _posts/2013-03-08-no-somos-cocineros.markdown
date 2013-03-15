@@ -67,7 +67,7 @@ Los programadores, de acuerdo a Gutierrez, lo que hacen es satisfacer los deseos
 
 Y esto constituye una doble falta a los ojos de la tradición, porque: "Primero, al desarrollador de software no le importan las causas, la naturaleza. No se ocupa del “bien”, sino de lo que desea el usuario. Por ello no constituye un arte; es adulación. Segundo, lo adulado por el software, el hacer, al contrario del cuerpo o del alma, es algo que nunca ha sido bien mirado."
 
-¿Por qué no es bien mirado? Porque todos quieren obtener placer sin hacer nada. Eso es lo que se le ofrece a las nuevas generaciones. Y luego viene el epílogo que me a mi personalmente me deja con una sensación extraña:
+¿Por qué no es bien mirado? Porque todos quieren obtener placer sin hacer nada. Eso es lo que se le ofrece a las nuevas generaciones. Y luego viene el epílogo que a mi personalmente me deja con una sensación extraña:
 
 {% blockquote %}
 Terminemos: ¿sería posible un mundo sin software? Por supuesto. Y sería un mundo más tranquilo, con haceres pausados y rústicos. La gente no moriría de hambre ni de frío… pero sí de aburrimiento. No habría nadie que nos adule en el hacer, que satisfaga el insaciable placer del hacer.
