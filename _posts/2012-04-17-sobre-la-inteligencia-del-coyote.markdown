@@ -220,7 +220,7 @@ Hay una caricatura en que [el Coyote finalmente atrapa al Corre Caminos](http://
 
 
 
-{% imv center /blog/wp-content/uploads/2012/04/NowWhat.png 300 ¿Ahora qué? La pregunta del fanático, que ha olvidado su objetivo %}
+{% img center /blog/wp-content/uploads/2012/04/NowWhat.png 300 ¿Ahora qué? La pregunta del fanático, que ha olvidado su objetivo %}
 
 
 Notas:

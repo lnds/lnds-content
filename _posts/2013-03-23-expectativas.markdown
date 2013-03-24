@@ -28,7 +28,7 @@ Pues no es así, y ese es el gran problema con la toma de requerimientos. Siempr
 
 **¿Qué quieren los usuarios?**
 
-{% block quote  Steve Jobs http://www.inc.com/magazine/19890401/5602.html "An interview with Steven Jobs, Inc.'s Entrepreneur of the Decade, Abril 1989" %}
+{% blockquote  Steve Jobs http://www.inc.com/magazine/19890401/5602.html "An interview with Steven Jobs, Inc.'s Entrepreneur of the Decade, Abril 1989" %}
 You can't just ask customers what they want and then try to give that to them. By the time you get it built, they'll want something new.
 {% endblockquote %}
 
