@@ -10,8 +10,8 @@ categories:
 - Metodología
 ---
 
-{% blockquote %}
-"You‘ve got to start with the customer experience and work back toward the technology - not the other way around." -- Steve Jobs
+{% blockquote Steve Jobs, WWDC 1997 %}
+"You‘ve got to start with the customer experience and work back toward the technology - not the other way around." 
 {% endblockquote %}
 
 Casos de Uso, les cuento lo que pensaba una amiga de los casos de uso. "Esha" es argentina, ¿viste? En una ocasión me contó un típico diálogo con uno de sus programadores: "¡Che! y le pregunto que cómo era posible que una factura tuviera fecha de vencimiento menor a la fecha de emisión, y ¿sabés que me contesta el boludo? ¡Que esa situación no estaba contemplada en el caso de uso! ¡¿Sabés que podés hacer con tus casos de uso?! le contesté…"
@@ -28,8 +28,8 @@ Pues no es así, y ese es el gran problema con la toma de requerimientos. Siempr
 
 **¿Qué quieren los usuarios?**
 
-{% blockquote %}
-You can't just ask customers what they want and then try to give that to them. By the time you get it built, they'll want something new. -- Steve Jobs
+{% block quote  Steve Jobs http://www.inc.com/magazine/19890401/5602.html "An interview with Steven Jobs, Inc.'s Entrepreneur of the Decade, Abril 1989" %}
+You can't just ask customers what they want and then try to give that to them. By the time you get it built, they'll want something new.
 {% endblockquote %}
 
 Algo de razón tenía  Steve Jobs cuando dijo que cuando le preguntas a tus clientes que quieres y tratas de dárselos, en el momento que lo hayas construido ya quieren algo nuevo. Es una rueda sin fin en la que nos involucramos desarrolladores y usuarios, nunca parecen alinearse las expectativas con los resultados.  ¿Qué es lo que falla entonces? ¿Cómo solucionarlo?
