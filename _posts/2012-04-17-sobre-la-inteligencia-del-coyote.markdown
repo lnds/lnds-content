@@ -114,7 +114,7 @@ La propuesta de Gregory pretende establecer una analogía con los términos de [
 
 Si recuerdan las viejas caricaturas del Corre Caminos, recordarán que el pobre Coyote levantaba una enorme piedra lo más alto posible, con el fin de aplastar al Corre Caminos. Al hacer esto la roca acumulaba energía potencial, de modo que al soltarla  esa energía potencial se convertiría en energía cinética con la suficiente fuerza para aplastar al odioso plumífero (lo que confirma mis sospechas de que, finalmente, el Coyote no quería realmente comer al pajarraco aquel, sino  que simplemente lo odiaba).
 
-{% img center blog/wp-content/uploads/2012/04/Coyote.jpg 400 Acumulando energía potencial %}
+{% img center /blog/wp-content/uploads/2012/04/Coyote.jpg 400 Acumulando energía potencial %}
 
 De una manera más formal, la energía potencial es la capacidad de ejecutar trabajo que tiene un sistema en función de su posición o configuración. Es la energía almacenada por el sistema, es su capacidad de trabajo. Por otro lado la energía cinética es la energía que posee un objeto debido a su movimiento. En el diagrama de abajo vemos que la energía potencial que acumula una piedra, debida a su posición se transforma totalmente en energía cinética al rodar.
 

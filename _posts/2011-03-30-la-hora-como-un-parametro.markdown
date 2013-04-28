@@ -25,7 +25,7 @@ No sé que zona horaria tiene configurado mi colega en su android, pero yo tuve 
 
 Y el ministro dice que esto no es un gran problema, que no sería más que cambiar algún parámetro, porque ustedes son informáticos inteligentes y tienen todo parametrizado, ¿no?. Simpático el ministro.
 
-[![](http://www.lnds.net/blog/wp-content/uploads/2011/03/golborne.png)](http://www.lnds.net/blog/wp-content/uploads/2011/03/golborne.png)
+{% img center /blog/wp-content/uploads/2011/03/golborne.png %}
 
 Pero no es tan así, el problema no son solamente calendarios y reuniones descoordinadas.
 
@@ -71,18 +71,12 @@ Y todo por una medida con intenciones poco claras, que no aporta ningún sólo k
 
 Este diagrama, tomado de [esta interesante página](http://www.shedrupling.org/activist/heure/heure.php?lang=en&e=b&j=1&f=&), muestra el tiempo solar. Recordemos que la idea era dividir el día en 24 horas, de modo tal que al mediodía el sol estuviera en el cenit (el punto más alto del cielo):
 
-[caption id="attachment_1643" align="aligncenter" width="560" caption="Tiempo solar (click para agrandar)"][![](http://www.lnds.net/blog/wp-content/uploads/2011/03/solaire.gif)](http://www.lnds.net/blog/wp-content/uploads/2011/03/solaire.gif)[/caption]
-
+{% img center /blog/wp-content/uploads/2011/03/solaire.gif "Tiempo Solar (click para agrandar)" "Tiempo Solar (click para agrandar)" %}
 
 
 Lo que muestra el diagrama es que en verano y en invierno la cantidad de horas de luz varían, pero siempre tenemos el sol al mediodía en el punto más alto, así deberían ser las cosas, pero eso implica que tenemos que levantarnos más temprano para ir a trabajar. Así que lo que se hace es ajustar el horario solar con el horario legal, acá está el ejemplo de Francia, y que es similar a como lo hace  Chile:
 
-
-
-
-
-[caption id="attachment_1644" align="aligncenter" width="560" caption="el horario legal en Francia (click para agrandar)"][![](http://www.lnds.net/blog/wp-content/uploads/2011/03/france.gif)](http://www.lnds.net/blog/wp-content/uploads/2011/03/france.gif)[/caption]
-
+{%img center /blog/wp-content/uploads/2011/03/france.gif "El Horario Legal en Francia" %}
 
 
 Ajustamos nuestros relojes para que el sol salga cerca de las 7:00 y volvamos a casa cerca de las 21 horas. Esto produce que el sol alcance el cenit  cerca de las 14:00 horas (la hora de más luz y calor). Pero no importa lo que hagamos la cantidad de horas disminuirá en invierno, por eso que atrasamos el reloj.
@@ -99,7 +93,7 @@ Si dejamos UTC-4, pasa lo contrario, en el verano el sol se pondría más tempra
 
 La decisión no es fácil. Pero, ¿y si cambiaramos el horario de trabajo, en vez de la hora? ¿Qué pasaría si ajustaramos nuestro horario de trabajo a lo más natural, que es trabajar de acuerdo a la disponibilidad del sol?
 
-[caption id="attachment_1646" align="aligncenter" width="300" caption="Zonas Horarias (click para agrandar)"][![](http://www.lnds.net/blog/wp-content/uploads/2011/03/Timezones_2011_April_2011-300x160.png)](http://www.lnds.net/blog/wp-content/uploads/2011/03/Timezones_2011_April_2011.png)[/caption]
+{% img center /blog/wp-content/uploads/2011/03/Timezones_2011_April_2011-300x160.png "Zonas Horarias (click para agrandar)" %}
 
 
 
@@ -119,7 +113,7 @@ Pero veamos que pasa con lo del ahorro de energía. Lo que se podría ahorrar es
 
 Esto debería estudiarse mejor, eso es lo que [varios decimos](http://www.alejandrobarros.com/content/view/1432514/Cambio-de-hora-requiere-evaluacion-mas-profunda.html), pero no puede ser decidido en base a corazonadas y supuestas tendencias. Si es por especular digamos que los costos informáticos pueden ser tanto como lo que se gana en ampolletas apagadas, ¿quién puede argumentar en contra, si nadie presenta evidencias?.
 
-En un ejercicio que hizo  un amigo llegó a un costo de unos 3 millones de dolares en términos del costo que significa "parchar" la infraestructura TI en Chile por esta medida, yo creo que se quedó corto. En USA el estado de Indiana, con 6 millones de habitantes, estimó que el gasto adicional por implementar el horario de verano fue de 8.6 millones de dolares ([tomado del Wall Street Journal](http://online.wsj.com/public/article/SB120406767043794825.html)).
+En un ejercicio que hizo  un amigo llegó a un costo de unos 3 millones de dolares en términos del costo que significa "parchar" la infraestructura TI en Chile por esta medida, yo creo que se quedó corto. En USA el estado de Indiana, con 6 millones de habitantes, estimó que el gasto adicional por implementar el horario de verano fue de 8.6 millones de dólares ([tomado del Wall Street Journal](http://online.wsj.com/public/article/SB120406767043794825.html)).
 
 La verdad es que no se ven estudios que determinen si hay ahorro con el horario de verano, y no creo que vayan a hacer uno para el próximo año (ojalá alguien me desmienta y muestre cifras y estudios serios).
 
