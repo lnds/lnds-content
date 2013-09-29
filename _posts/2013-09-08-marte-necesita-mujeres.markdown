@@ -82,7 +82,7 @@ Entre las recomendaciones de este estudio están las siguientes:
 
 * Promover más el compartir las labores domésticas, las políticas de las empresas deberían ser más amistosas con las familias de sus empleados. Se debería permitir permisos tanto a hombres como mujeres para atender a sus hijos. 
 * Los principales afectados por el exceso de trabajo, o presión de trabajo son los hombres, pues esto repercute en sus hogares.  Hay que tratar de evitar las jornadas largas de trabajo, y el trabajar bajo presión de plazos. Promover los roles masculinos.
-* Recordar que los hombres sufren más cuando están en minoría. Es mejor promover una proporción igualitaria entre hombres y mujeres. Evitar las etiquetas y estereotipos. Promover las triadas (algo sobre lo que voy a escribir en otro post).
+* Recordar que los hombres se resienten más cuando están en minoría. Es mejor promover una proporción igualitaria entre hombres y mujeres. Evitar las etiquetas y estereotipos. Promover las triadas (algo sobre lo que voy a escribir en otro post).
 * Para optimizar el potencial de innovación del equipo construya un equipo con los siguientes criterios en mente: a) diversidad de género, b) capacidad para expandir sus fronteras (interactuando con otros equipos), c) seguridad sicológica.
 * Busque talentos que entreguen diversas visiones, esto necesita coraje y convicción.
 
