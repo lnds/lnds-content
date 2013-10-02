@@ -26,8 +26,7 @@ tags:
 
 El gráfico de más abajo muestra la tasa de consentimiento en la donación de órganos en 11 países europeos:
 
-[caption id="attachment_1943" align="aligncenter" width="517" caption="Tasa de Consentimiento en la Donación de Organos en Paises Europeos"][![](http://www.lnds.net/blog/wp-content/uploads/2011/06/DonacionDeOrganos.png)](http://www.lnds.net/blog/wp-content/uploads/2011/06/DonacionDeOrganos.png)[/caption]
-
+{% img center /blog/wp-content/uploads/2011/06/DonacionDeOrganos.png %}
 
 
 Lo que llama la atención es que prácticamente tenemos dos grupos muy marcados, dos extremos claros, los primeros 4 países con tasas muy bajas, y el otro extremo en que prácticamente toda la población ha dado su consentimiento para donar sus órganos al morir.
@@ -36,7 +35,7 @@ Pero, ¿qué explica la diferencia entre un extremo y otro?
 
 Consideren los paises 4 y 5, acá están en más detalle:
 
-[caption id="attachment_1944" align="aligncenter" width="355" caption="Tasa de consentimiento en la donación de órganos de 2 paises europeos (paises 4 y 5 del gráfico de más arriba)"][![](http://www.lnds.net/blog/wp-content/uploads/2011/06/DosPaises.png)](http://www.lnds.net/blog/wp-content/uploads/2011/06/DosPaises.png)[/caption]
+{% img center /blog/wp-content/uploads/2011/06/DosPaises.png %}
 
 Intentemos elaborar alguna **teoría de sentido común** que nos explique por qué un país tiene una tasa de consentimiento de 12% y otro un 99,98%.
 
@@ -84,12 +83,12 @@ La verdad es que las explicaciones son bastante buenas, hasta que se nos revela 
 Ninguno de los estudiantes de Watts podía aventurar una explicación contundente, pero lo que era claro es que fuera lo que fuera era algo realmente grande. Y seguramente muchos de ustedes no saben la real causa de por qué se da este fenómeno, y la explicación es absurdamente simple:
 
 
-> _En Austria, la opción por defecto es ser donante de órganos, mientras que en Alemania la opción por omisión es **no **ser donante de órganos._
+> _En Austria, la opción por omisión es ser donante de órganos, mientras que en Alemania la opción por omisión es **no **ser donante de órganos._
 
 
-Esto explica esta enorme diferencia entre todos estos paises. Los detalles están en el estudio: "Do defaults save lives?" de Eric Johnson y Daniel Goldstein (disponible en esta dirección: [http://webs.wofford.edu/pechwj/Do%20Defaults%20Save%20Lives.pdf](http://webs.wofford.edu/pechwj/Do%20Defaults%20Save%20Lives.pdf))
+Esto explica esta enorme diferencia entre todos estos países. Los detalles están en el estudio: "Do defaults save lives?" de Eric Johnson y Daniel Goldstein (disponible en esta dirección: [http://webs.wofford.edu/pechwj/Do%20Defaults%20Save%20Lives.pdf](http://webs.wofford.edu/pechwj/Do%20Defaults%20Save%20Lives.pdf))
 
-"En el caso de la donación de órganos, los paises europeos tienen una de dos políticas por defecto. En los estados con consentimiento presumido, la gente es donante de órganos a menos que ellos se registren para no ser donante de órganos, y en los paises con consentimiento explícito, nadie es donante de órganos sin que previamente se registre para serlo". Y adivinen que pasa. Todos los países con un mecanismo opt-out de donación de órganos tienen tasas de donación más alta. (*)
+"En el caso de la donación de órganos, los países europeos tienen una de dos políticas por defecto. En los estados con consentimiento presumido, la gente es donante de órganos a menos que ellos se registren para no ser donante de órganos, y en los países con consentimiento explícito, nadie es donante de órganos sin que previamente se registre para serlo". Y adivinen que pasa. Todos los países con un mecanismo opt-out de donación de órganos tienen tasas de donación más alta. (*)
 
 Entender la influencia de las opciones por defecto es importante, porque entender como hacemos elecciones afecta virtualmente todas nuestras explicaciones sobre el comportamiento social, económico y político.
 
